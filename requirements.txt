@@ -1,5 +1,5 @@
 commonregex==1.5.4
-Django==1.9.1
+Django==2.2.24
 django-frontend==1.8.0
 django-utils==0.0.2
 encoding==1.0.0
